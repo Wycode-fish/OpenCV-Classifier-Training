@@ -1,0 +1,3 @@
+#!/bin/bash
+
+opencv_performance -data haarcascade.xml -info test/test.dat -ni
