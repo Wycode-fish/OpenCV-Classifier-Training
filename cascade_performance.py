@@ -1,3 +1,11 @@
+"""
+Author	: Eason
+Date	: 12/2016
+File Description:
+	- evaluate the performance of the classifiers trained via opencv_traincascade.
+	(opencv_performance won't work for opencv_traincascade)
+	- output form is the same as opencv_performance.	
+"""
 import sys
 import cv2
 import glob
